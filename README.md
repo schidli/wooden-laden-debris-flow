@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 100
----
-
 # Analysing the impact of wood-laden debris flows on bridge superstructures
 
 This repository supplements the manuscript by
