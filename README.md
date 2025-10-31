@@ -9,7 +9,7 @@ Dirk Proske
 Lukas Egkher, Susanna Wernhart and Christian Scheidl
 [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5625-6238)
 (2025): [**The amplifying effect of wood on debris-flow induced impact forces on bridge
-superstructures**[(https://www.sciencedirect.com/science/article/pii/S0013795225004089). *Engineering Geology*, Volume 357, 108312. [doi:10.1016/j.enggeo.2025.108312](https://doi.org/10.1016/j.enggeo.2025.108312)).
+superstructures**](https://www.sciencedirect.com/science/article/pii/S0013795225004089). *Engineering Geology*, Volume 357, 108312. [doi:10.1016/j.enggeo.2025.108312](https://doi.org/10.1016/j.enggeo.2025.108312)).
 
 ## Repo structure
 
